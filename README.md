@@ -17,3 +17,14 @@
 #### 关于api key的获取方式
 #### 1）如果你会科学上网，可以在官网自行注册获取。https://platform.openai.com/api-keys
 #### 2）如果你不会科学上网，那么可以在某宝购买（搜索关键词api key），一块钱买的账号就能用了，具体自行选择。
+
+# ChatGPT Private本地开发
+1、在项目根目录创建.env.local，内容如下  
+\# API KEY  
+OPENAI_API_KEY=you_api_key  
+  
+\# 中国大陆用户，可以使用本项目自带的代理进行开发，你也可以自由选择其他代理地址  
+BASE_URL=https://b.nextweb.fun/api/proxy  
+
+2、安装 nodejs 18 和 yarn。  
+3、执行 yarn install && yarn dev 即可。⚠️ 注意：此命令仅用于本地开发，不要用于部署！ 
