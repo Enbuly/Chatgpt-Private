@@ -6,8 +6,8 @@
 ### 2）本网站不会有任何广告，也不会以任何形式存储用户相关的任何信息，访问本站也无需科学上网工具。
 ### 3）本网站源自github开源项目，在此项目上做了一些小调整，需要源码的同学可以自行浏览学习。https://github.com/Yidadaa/ChatGPT-Next-Web
 
-### 二、使用说明
-#### 1）输入网址http://39.100.77.240/#/，点击登录按钮
+### 二、使用说明，输入网址http://39.100.77.240/#/
+#### 1）点击登录按钮
 ![7939858b70462f2b8444f94d8ea90a2](https://github.com/Enbuly/pencil/assets/15280614/30d484e0-33bf-4bfa-9c8b-b12d587a74aa)
 #### 2）输入您的api key点击确定
 ![67b2a8141d024a62e711215d44a15a2](https://github.com/Enbuly/pencil/assets/15280614/9ad862b5-c284-408d-9327-508da0d4df94)
