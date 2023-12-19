@@ -29,7 +29,7 @@
 OPENAI_API_KEY=you_api_key  
   
 \# 中国大陆用户，可以使用本项目自带的代理进行开发，你也可以自由选择其他代理地址  
-BASE_URL=https://b.nextweb.fun/api/proxy  
+BASE_URL=https://gpt.nextapi.fun/api/proxy  
 
 2、安装 nodejs 18 和 yarn。  
 3、执行 yarn install && yarn dev 即可。⚠️ 注意：此命令仅用于本地开发，不要用于部署！ 
